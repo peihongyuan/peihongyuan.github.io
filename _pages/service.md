@@ -3,10 +3,13 @@ layout: archive
 title: "Service"
 permalink: /service/
 author_profile: true
+redirect_from:
+  - /service
 ---
 
 {% include base_path %}
-
-{% for post in site.service reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  
+  
+Service
+======
+* Currently signed in to 43 different slack teams
