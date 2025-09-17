@@ -33,6 +33,6 @@ Work experience
   * Supervisor: Professor Git
   
   
-Service
+Awards and Honors
 ======
 * Currently signed in to 43 different slack teams
