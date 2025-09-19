@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an information and coding theory researcher at the Institute of Space Internet, Fudan University, China, where I joined as an Assistant Professor in 2025. I received the Dr.-Ing. degree (Ph.D. equivalent) in electrical and computer engineering from the Technical University of Munich (TUM), Germany, in 2021, under the supervision of Prof. Gerhard Kramer, and the M.Sc. degree from TUM in 2015. From 2022 to 2025, I was a postdoctoral associate in the Research Laboratory of Electronics (RLE) at the Massachusetts Institute of Technology (MIT), working with Prof. Muriel Médard.
+I am an information and coding theory researcher at the *Institute of Space Internet, Fudan University*, China, where I joined as an Assistant Professor in 2025. I received the Dr.-Ing. degree (Ph.D. equivalent) in electrical and computer engineering from the *Technical University of Munich (TUM)*, Germany, in 2021, under the supervision of Prof. Gerhard Kramer, and the M.Sc. degree from TUM in 2015. From 2022 to 2025, I was a postdoctoral associate in the *Research Laboratory of Electronics (RLE) at the Massachusetts Institute of Technology (MIT)*, working with Prof. Muriel Médard.
 
 Research Interests
 ======
