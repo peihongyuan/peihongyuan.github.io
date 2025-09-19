@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+&nbsp;
 Lecturer
 ======
 * Discrete Mathematics and Proof for Computer Science (6.120A), Undergraduate, *Massachusetts Institute of Technology*, 2023 Spring
