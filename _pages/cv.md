@@ -13,20 +13,20 @@ redirect_from:
 
 Education
 ======
-* Dr.-Ing. in Electrical and Computer Engineering, Technical University of Munich, 2021
-* M.Sc. in Electrical and Computer Engineering, Technical University of Munich, 2015
-* M.Sc. in Electrical and Computer Engineering, Tongji University, 2015
-* B.Sc. in Transportation Engineering, Tongji University, 2011
+* Dr.-Ing. in Electrical and Computer Engineering, *Technical University of Munich*, 2021
+* M.Sc. in Electrical and Computer Engineering, *Technical University of Munich*, 2015
+* M.Sc. in Electrical and Computer Engineering, *Tongji University*, 2015
+* B.Sc. in Transportation Engineering, *Tongji University*, 2011
 
 Experience
 ======
-* 2025.7– Assistant Professor, Fudan University, Shanghai, China.
+* 2025.7– Assistant Professor, *Fudan University*, Shanghai, China.
   * Institute of Space Internet
 
-* 2022.2– 2025.7 Postdoctoral Associate, Massachusetts Institute of Technology, MA, USA.
+* 2022.2– 2025.7 Postdoctoral Associate, *Massachusetts Institute of Technology*, MA, USA.
   * Network Coding and Reliable Communications (NCRC) Group
 
-* 2015.11–2022.2 Doctoral Researcher, Technical University of Munich, Germany.
+* 2015.11–2022.2 Doctoral Researcher, *Technical University of Munich*, Germany.
   * Institute for Communications Engineering (LNT)
   
   
