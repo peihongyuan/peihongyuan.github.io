@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+***
 * TPC Member for IEEE GlobeCom 2025: Workshop on Channel Coding beyond 5G.
 * Symposium Co-chair for IEEE/CIC International Conference on Communications in China (ICCC) 2025 
 * Guest Editor for Entropy - Special Issues: Advances in Modern Channel Coding
