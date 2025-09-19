@@ -24,7 +24,3 @@ Teaching Assistant
 * Coded Modulation, *Technical University of Munich*, 2018-2021 
 * Machine Learning for Communications, *Technical University of Munich*, 2017 & 2020 
 * Advanced Topics in Signal Processing, *Technical University of Munich*, 2016
-  
-Thesis Supervision (at Technical University of Munich)
-======
-* Bachelor & Master thesis, Supervision of more than 20 Bachelor (undergraduate) and Master (graduate) students at *Technical University of Munich*, 2015-2021
