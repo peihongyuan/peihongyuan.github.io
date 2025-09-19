@@ -20,22 +20,19 @@ Education
 
 Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.7– Assistant Professor, Fudan University, Shanghai, China.
+  * Institute of Space Internet
+    * Information theory and error correction codes
+    * Satellite communications
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.2– 2025.7 Postdoctoral Associate, Massachusetts Institute of Technology, MA, USA.
+  * Network Coding and Reliable Communications (NCRC) Group (Prof. Muriel Médard)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015.11–2022.2 Doctoral Researcher, Technical University of Munich, Germany.
+  * Institute for Communications Engineering (LNT) (Prof. Gerhard Kramer)
   
   
 Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+* Exemplary Reviewer for the IEEE Transactions on Communications, 2022
+* Heinrich Hecht Award, 2019
