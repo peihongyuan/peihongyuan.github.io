@@ -43,7 +43,4 @@ Communications Laboratory, *Technical University of Munich*, 2016-2020
 
 Patents
 ======
-Wireless Communications Laboratory, *Technical University of Munich*, 2019-2021 
-
-Communications Laboratory, *Technical University of Munich*, 2016-2020 
-
+**P. Yuan**, M. C. Coşkun and G. Kramer, "Decoding device and method for decoding," [DE102020128918B3](https://patents.google.com/patent/DE102020128918B3/en), Granted
