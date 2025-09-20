@@ -13,7 +13,7 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 Journal Articles
 ======
-Discrete Mathematics and Proof for Computer Science (6.120A), Undergraduate, *Massachusetts Institute of Technology*, 2023 Spring
+J. C. Griffin, **P. Yuan**, R. Thesmar, P. Popovski, K. R. Duffy and M. Médard, "Code at the Receiver, Decode at the Sender: Feedback Communication with GRAND-CE," in *IEEE Transactions on Communications*, [doi: 10.1109/TCOMM.2025.3604322](doi: 10.1109/TCOMM.2025.3604322)
 
 Digital Communications 1 (EDE 3205), Undergraduate, Intensive Course, *TUM Asia, Singapore*, 2021 
 
