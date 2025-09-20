@@ -35,9 +35,36 @@ T. Wiegart, F. Steiner, P. Schulte and **P. Yuan**, "Shaped On–Off Keying Usin
 
 Conference Papers
 ======
-Wireless Communications Laboratory, *Technical University of Munich*, 2019-2021 
+J. Griffin, **P. Yuan**, K. R. Duffy and M. Médard, "Using a Single Parity-Check to Reduce the Guesswork of Guessing Codeword Decoding," *2025 59th Annual Conference on Information Sciences and Systems (CISS)*, Baltimore, MD, USA, 2025, pp. 1-6, [doi:10.1109/CISS64860.2025.10944685](https://ieeexplore.ieee.org/document/10944685)
 
-Communications Laboratory, *Technical University of Munich*, 2016-2020 
+**P. Yuan**, K. R. Duffy and M. Médard, "Near-Optimal Generalized Decoding of Polar-like Codes," *2024 IEEE International Symposium on Information Theory (ISIT)*, Athens, Greece, 2024, pp. 2939-2944, [doi:10.1109/ISIT57864.2024.10619145](https://ieeexplore.ieee.org/document/10619145)
+
+**P. Yuan**, K. R. Duffy and M. Médard, "Time-Shift Coding for Uncoordinated MACs," *2023 IEEE Latin-American Conference on Communications (LATINCOM)*, Panama City, Panama, 2023, pp. 1-6, [doi:10.1109/LATINCOM59467.2023.10361874](https://ieeexplore.ieee.org/document/10361874)
+
+**P. Yuan**, K. R. Duffy, E. P. Gabhart and M. Médard, "Guessing Random Additive Noise Decoding with Quantized Soft Information," *2023 IEEE Globecom Workshops (GC Wkshps)*, Kuala Lumpur, Malaysia, 2023, pp. 1698-1703, [doi:10.1109/GCWkshps58843.2023.10465063](https://ieeexplore.ieee.org/document/10465063)
+
+K. Galligan, **P. Yuan**, M. Médard and K. R. Duffy, "Upgrade error detection to prediction with GRAND," *GLOBECOM 2023 - 2023 IEEE Global Communications Conference*, Kuala Lumpur, Malaysia, 2023, pp. 1818-1823, [doi:10.1109/GLOBECOM54140.2023.10437145](https://ieeexplore.ieee.org/document/10437145)
+
+H. Sarieddeen, **P. Yuan**, M. Médard and K. R. Duffy, "Soft-input, soft-output joint data detection and GRAND: A performance and complexity analysis," *2023 IEEE International Symposium on Information Theory (ISIT)*, Taipei, Taiwan, 2023, pp. 1090-1095, [doi:10.1109/ISIT54713.2023.10206823](https://ieeexplore.ieee.org/document/10206823)
+
+J. Griffin, **P. Yuan**, P. Popovski, K. R. Duffy and M. Médard, "Code at the Receiver, Decode at the Sender: GRAND with Feedback," *2023 IEEE Information Theory Workshop (ITW)*, Saint-Malo, France, 2023, pp. 341-346, [doi:10.1109/ITW55543.2023.10161690](https://ieeexplore.ieee.org/document/10161690)
+
+**P. Yuan** and M. C. Coşkun, "Complexity-Adaptive Maximum-Likelihood Decoding of Modified GN-Coset Codes," *2021 IEEE Information Theory Workshop (ITW)*, Kanazawa, Japan, 2021, pp. 1-6, [doi:10.1109/ITW48936.2021.9611445](https://ieeexplore.ieee.org/document/9611445)
+
+**P. Yuan**, T. Prinz, G. Boecherer, O. Iscan, R. Boehnke and W. Xu, "Polar Code Construction for List Decoding," *SCC 2019; 12th International ITG Conference on Systems, Communications and Coding*, Rostock, Germany, 2019, pp. 1-6, [doi:10.30420/454862022](https://ieeexplore.ieee.org/abstract/document/8661319)
+
+T. Wiegart, T. Prinz, F. Steiner and **P. Yuan**, "Design of Polar Codes for Parallel Channels with an Average Power Constraint," *2019 IEEE International Symposium on Information Theory (ISIT)*, Paris, France, 2019, pp. 1942-1946, [doi:10.1109/ISIT.2019.8849335](https://ieeexplore.ieee.org/document/8849335)
+
+**P. Yuan** and F. Steiner, "Construction and Decoding Algorithms for Polar Codes based on 2 × 2 Non-Binary Kernels," *2018 IEEE 10th International Symposium on Turbo Codes & Iterative Information Processing (ISTC)*, Hong Kong, China, 2018, pp. 1-5, [doi:10.1109/ISTC.2018.8625284](https://ieeexplore.ieee.org/document/8625284)
+
+T. Prinz and **P. Yuan**, "Successive Cancellation List Decoding of BMERA Codes with Application to Higher-Order Modulation," *2018 IEEE 10th International Symposium on Turbo Codes & Iterative Information Processing (ISTC)*, Hong Kong, China, 2018, pp. 1-5, [doi:10.1109/ISTC.2018.8625293](https://ieeexplore.ieee.org/document/8625293)
+
+**P. Yuan**, F. Steiner, T. Prinz and G. Böcherer, "Flexible IR-HARQ scheme for polar-coded modulation," *2018 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)*, Barcelona, Spain, 2018, pp. 49-54, [doi:10.1109/WCNCW.2018.8369005](https://ieeexplore.ieee.org/document/8369005)
+
+T. Prinz, **P. Yuan**, G. Böcherer, F. Steiner, O. İşcan, R. Böhnke, W. Xu, "Polar coded probabilistic amplitude shaping for short packets," *2017 IEEE 18th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Sapporo, Japan, 2017, pp. 1-5, [doi:10.1109/SPAWC.2017.8227653](https://ieeexplore.ieee.org/document/8227653)
+
+G. Bocherer, T. Prinz, **P. Yuan** and F. Steiner, "Efficient Polar Code Construction for Higher-Order Modulation," *2017 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)*, San Francisco, CA, USA, 2017, pp. 1-6, [doi:10.1109/WCNCW.2017.7919039](https://ieeexplore.ieee.org/document/7919039)
+
 
 ***
 
