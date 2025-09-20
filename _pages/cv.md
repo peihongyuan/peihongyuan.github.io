@@ -24,10 +24,10 @@ Experience
   * Institute of Space Internet
 
 * 2022.02 to 2025.07,   **Postdoctoral Associate**, *Massachusetts Institute of Technology*, MA, USA.
-  * Network Coding and Reliable Communications (NCRC) Group
+  * Network Coding and Reliable Communications Group
 
 * 2015.11 to 2022.02,   **Doctoral Researcher**, *Technical University of Munich*, Germany.
-  * Institute for Communications Engineering (LNT)
+  * Institute for Communications Engineering
   
   
 Awards and Honors
