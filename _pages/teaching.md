@@ -10,8 +10,8 @@ author_profile: true
 Lecturer
 ======
 * Discrete Mathematics and Proof for Computer Science (6.120A), Undergraduate, *Massachusetts Institute of Technology*, 2023 Spring
-* Digital Communications 1 (EDE 3205), Undergraduate 90-hour/3-week Intensive Course, *TUM Asia, Singapore*, 2021 
-* Aspects of Machine Learning for Communications, Graduate Invited Intensive Course, *Tongji University*, 2019-2021 
+* Digital Communications 1 (EDE 3205), Undergraduate, Intensive Course, *TUM Asia, Singapore*, 2021 
+* Aspects of Machine Learning for Communications, Graduate, Invited Intensive Course, *Tongji University*, 2019-2021 
 
 Lab Supervisor
 ======
