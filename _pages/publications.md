@@ -43,4 +43,13 @@ Communications Laboratory, *Technical University of Munich*, 2016-2020
 
 Patents
 ======
+**P. Yuan**, G. Boecherer, P. Schulte, G. Kramer, R. Boehnke, W. Xu, "Error detection using symbol distribution in a system with distribution matching and probabilistic amplitude shaping," [US10880037B2](https://patents.google.com/patent/US10880037B2/en), Granted
+
 **P. Yuan**, M. C. Coşkun and G. Kramer, "Decoding device and method for decoding," [DE102020128918B3](https://patents.google.com/patent/DE102020128918B3/en), Granted
+
+T. Prinz, **P. Yuan**, G. Boecherer, G. Kramer, O. Iscan, R. Boehnke, W. Xu, "Polar coding with dynamic frozen bits," [US11108411B2](https://patents.google.com/patent/US11108411B2/en), Granted
+
+T. Prinz, T. Wiegart, **P. Yuan**, P. Schulte, G. Kramer, O. Iscan, R. Boehnke, W. Xu, "Polar coding for parallel channels with different channel parmeters such as different snr," [WO2021078389A1](https://patents.google.com/patent/WO2021078389A1/en), Filed
+
+
+
