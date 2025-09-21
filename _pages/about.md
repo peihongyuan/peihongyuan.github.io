@@ -11,7 +11,7 @@ I am an information and coding theory researcher at the *Institute of Space Inte
 
 Research Interests
 ======
-My research interests lie in the areas of information theory, coding theory, and applied probability, with a particular focus on modern channel coding, network coding, and their applications in wireless, optical fiber, and space communications.
+My research interests lie in the areas of **information theory**, **coding theory**, and **applied probability**, with a particular focus on modern channel coding, network coding, and their applications in wireless, optical fiber, and space communications.
 
 Openings
 ======
